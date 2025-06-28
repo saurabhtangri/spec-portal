@@ -1,0 +1,7 @@
+site_name: Spec Portal
+theme:
+  name: material
+nav:
+  - Overview: index.md
+  - Architecture: architecture.md
+  - API: api.md
