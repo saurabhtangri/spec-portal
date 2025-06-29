@@ -1,6 +1,9 @@
 site_name: Spec Portal
 theme:
   name: material
+  logo: assets/logo.png
+  favicon: assets/logo.png
+  
 nav:
   - Overview: index.md
   - Architecture: architecture.md
